@@ -6,6 +6,13 @@ API_practice.ipynb
 random_numbers.ipynb
 except_continue.ipynb
 
+# Adding weather_data files not needed for submission
+cities.csv
+lat_cloudiness.png
+lat_humidity.png
+lat_maxtemp.png
+lat_windspeed.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
